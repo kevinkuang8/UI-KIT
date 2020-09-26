@@ -24,3 +24,14 @@ h1 {
     font-size: 16px;
     font-weight: bold;
 }
+
+.list-group {
+    font-size:16px;
+    border-radius: 5%;
+    list-style-type: none;
+}
+
+.list-group-item {
+    border: 1px solid #DFDFDF;
+    padding : 15px;
+}
