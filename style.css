@@ -44,6 +44,7 @@ h1 {
     border-radius:2%;
     font-size: 14px;
     width:20%;
+    min-width:300px;
 }
 
 #card-image {
